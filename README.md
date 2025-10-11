@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Jeric Balotabot and I love children
 
 <!--
 **SumaiL-Hassan/SumaiL-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
