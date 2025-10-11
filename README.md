@@ -1,10 +1,11 @@
-## Hi there 👋 I'm Jeric Balotabot and I love children
+## Hi there 👋 I'm Jeric and I love using my brain.
 
 
 ## Skills
 - Boxing
 - Basketball
 - Bike
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 <!--
 **SumaiL-Hassan/SumaiL-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
