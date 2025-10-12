@@ -3,7 +3,7 @@
 
 ## 🛠️ Tech Stack
 
-HTML • CSS • JavaScript • TypeScript • React • Tailwind CSS • Node.js • Python
+HTML • CSS • JavaScript • TypeScript • React • Tailwind CSS • Express.js • Turso • Node.js • Python
 
 ## 🔧 Tools
 
