@@ -26,12 +26,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ayka-Yao&show_icons=true&theme=tokyonight&count_private=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayka-Yao&layout=compact&theme=tokyonight"
-    height="160"
-  />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayka-Yao&show_icons=true&theme=tokyonight&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayka-Yao&layout=compact&theme=tokyonight)
 </p>
