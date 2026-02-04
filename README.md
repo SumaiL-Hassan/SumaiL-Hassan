@@ -1,4 +1,4 @@
-
+<img width="1916" height="891" alt="image" src="https://github.com/user-attachments/assets/0f8496ba-540d-4544-b5ed-928e6d9b8ba4" />
 <h1 align="center">Hi there 👋! I'm Jeric</h1>
 <p align="center"><b>Student from Bulacan PH</b></p>
 <h2 align="center">I enjoy creating things that benefit and help others. Join me on my journey.</h2>
@@ -24,4 +24,18 @@
 <br />
 
 
-### 📊 GitHub Stats
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.instagram.com/jeweak.yao/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/miracle.matumba.ame08/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/jeric-gonzales-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jeric.ggonzales.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
