@@ -24,7 +24,7 @@
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br />
 
-
+<p align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.instagram.com/jeweak.yao/" target="_blank">
