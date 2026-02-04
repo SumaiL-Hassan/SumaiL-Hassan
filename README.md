@@ -1,4 +1,8 @@
-## Hi there 👋 I'm Jeric and I enjoy creating things that benefit and help others. Join me on my journey.
+
+<h1 align="center">Hi there 👋! I'm Jeric</h1>
+<p align="center"><b>Student from Bulacan PH</b></p>
+<p align="center">
+## I enjoy creating things that benefit and help others. Join me on my journey.
 
 ### 🧰 Languages and Tools
 
